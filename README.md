@@ -1,4 +1,4 @@
-🍽️ Restaurante Digital – Sistema de Pedidos
+🍽️ Restaurante La Orquidea – Sistema de Pedidos
 
 Este proyecto es un sistema en Java que simula un restaurante digital.
 Permite registrar pedidos, aplicar descuentos automáticos y generar un reporte detallado de la orden.
