@@ -85,3 +85,7 @@ Java ☕
 HashMap, ArrayList y Streams para manejar datos.
 
 Excepciones personalizadas para mayor control y robustez.
+
+QUE APRENDI DURANTE EL CURSO
+
+Aprendi a manejar java, cosa que no sabia absolutamente nada, aprendi mucho sobre los ciclos, las exepciones y el manejo de listas y diccionarios, la verdad, de todas los modulos que vemos, este es por mucho uno de los mejores 
